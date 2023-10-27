@@ -1,0 +1,16 @@
+/*
+Theme Name: Mak2com
+Theme URI: https://mak2com.fr
+Description: custom theme for mak2com agency
+Author: Alexandre Celier
+Author URI: https://mak2com.fr
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mak2com
+*/
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+

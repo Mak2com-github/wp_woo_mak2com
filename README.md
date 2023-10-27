@@ -1,2 +1,2 @@
-# wp_woo_mak2com
-Custom theme for woocommerce websites
+# wpmak2com
+Custom WordPress theme for the agency
